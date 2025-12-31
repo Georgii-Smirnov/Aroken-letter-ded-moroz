@@ -1,6 +1,6 @@
 <!-- 🎉 HAPPY NEW YEAR 2026 🎉 -->
 
-<h1 align="center" style="font-size: 64px;">
+<h1 align="center" style="font-size: 45px;">
   <span style="color:#ff0000;">H</span>
   <span style="color:#ff7f00;">A</span>
   <span style="color:#ffff00;">P</span>
@@ -26,5 +26,5 @@
 </h1>
 
 <p align="center">
-  <img src="https://YOUR_IMAGE_LINK_HERE.jpg" alt="Happy New Year 2026" width="600"/>
+  <img src="https://i.pinimg.com/1200x/b0/07/91/b0079152808440044110561e91897194.jpg" alt="Happy New Year 2026" width="600"/>
 </p>
